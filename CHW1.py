@@ -1,7 +1,7 @@
 import numpy as np
 
 '''
-CONSTANTS / INITIATION
+CONSTANTS / INITIATION TEST
 '''
 
 NLINE = 7 # number of lines
